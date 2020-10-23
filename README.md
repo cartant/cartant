@@ -1,5 +1,3 @@
-😐
-
 <!--
 **cartant/cartant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I build stuff.
+
+Tools and libraries mostly. Hopefully, stuff that makes development less tedious and developers more productive.
+
+I'm on the RxJS core team and I've written a bunch of articles about RxJS and TypeScript. You can find them on my blog: [ncjamieson.com](https://ncjamieson.com)
+
+You can sponsor my work through [GitHub sponsors](https://github.com/sponsors/cartant).
