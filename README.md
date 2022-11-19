@@ -19,4 +19,6 @@ Tools and libraries mostly. Hopefully, stuff that makes development less tedious
 
 I'm on the RxJS core team and I've written a bunch of articles about RxJS and TypeScript. You can find them on my blog: [ncjamieson.com](https://ncjamieson.com)
 
-And you can sponsor my work through [GitHub sponsors](https://github.com/sponsors/cartant).
+You can sponsor my work through [GitHub sponsors](https://github.com/sponsors/cartant).
+
+And follow me on Mastodon at <a rel="me" href="https://fosstodon.org/@cartant">@cartant@fosstodon.org</a>.
