@@ -21,4 +21,8 @@ I'm on the RxJS core team and I've written a bunch of articles about RxJS and Ty
 
 You can sponsor my work through [GitHub sponsors](https://github.com/sponsors/cartant).
 
-And follow me on Mastodon at <a rel="me" href="https://fosstodon.org/@cartant">@cartant@fosstodon.org</a>.
+<!--
+Unfortunately, this gets sanitized:
+https://github.com/community/community/discussions/6248
+-->
+And follow me on Mastodon at <a rel="me" href="https://fosstodon.org/@cartant">fosstodon.org/@cartant</a>.
